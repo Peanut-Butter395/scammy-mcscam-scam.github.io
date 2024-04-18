@@ -1,11 +1,11 @@
 body {
-  background-color: #62979d;
+  background-color: #e2421d;
   color: #62979d;
   font-family: Arial, Helvetica, sans-serif;
 }
 #title {
   font-size: 48px;
-  color: #62979d;
+  color: #e2421d;
   font-weight: bold;
   margin-bottom: 20px;
   font-family: Arial, Helvetica, sans-serif;
@@ -14,7 +14,7 @@ body {
 }
 #subtitle {
   font-size: 24px;
-  color: #62979d;
+  color: #e2421d;
   font-weight: bold;
   margin-bottom: 20px;
   font-family: Arial, Helvetica, sans-serif;
@@ -40,8 +40,8 @@ body {
   padding-top: 10px;
 }
 .card {
-  background: #fff;
-  box-shadow: 0 8px 15px -7px #c9dff0;
+  background: #e2421d;
+  box-shadow: 0 8px 15px -7px #e2421d;
   margin: 0 20px;
   padding-left: 10px;
   border-radius: 20px;
@@ -52,11 +52,11 @@ body {
 }
 a {
   text-decoration: none;
-  color: #0084ff;
+  color: #e2421d;
 }
 a:hover {
   text-decoration: underline;
-  color: #62979d;
+  color: #e2421d;
 }
 .card-text {
   height: 175.6px;
